@@ -7,6 +7,11 @@
 
 ![Pedrolsza GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrolsza&show_icons=true&theme=tokyonight)
 
+<div style="text-align: right; margin-top: -20px;">
+  <img src="https://media1.tenor.com/m/KHpTWofLUaIAAAAd/re-zero-natsuki-subaru.gif" 
+       width="350" 
+       style="border-radius: 12px;" />
+</div>
 
 ### 🤙 Técnologias 😎: 
 <div style= "display_block"><br/>
@@ -19,14 +24,7 @@
   <img align="center" alt = "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <p align="right">
   <p style="display: flex; justify-content: center; align-items: center; margin-top: 25px;">
-  <div style="text-align: right; margin-top: -20px;">
-  <img src="https://media1.tenor.com/m/KHpTWofLUaIAAAAd/re-zero-natsuki-subaru.gif" 
-       width="350" 
-       style="border-radius: 12px;" />
-  </div>
-
-</div>
-
+ 
 Apaixonado por resolver problemas com código. Em constante evolução. 
 
 
