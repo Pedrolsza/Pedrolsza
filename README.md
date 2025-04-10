@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Olá%2C+eu+sou+Pedro+Luiz!;Seja+bem-vindo+ao+meu+GitHub!+)](https://git.io/typing-svg)
-
-<!-- Imagem no canto superior direito -->
-<img src="https://media1.tenor.com/m/KHpTWofLUaIAAAAd/re-zero-natsuki-subaru.gif" alt="Subaru Pixel" align="right" width="250" style="border-radius: 12px;" />
+<img src="https://media1.tenor.com/m/KHpTWofLUaIAAAAd/re-zero-natsuki-subaru.gif" alt="Subaru Pixel" align="right" width="200">
 
 ### 😁 Olá! Eu sou o Pedro Luiz 👋
 
