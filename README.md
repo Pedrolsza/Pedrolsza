@@ -39,4 +39,10 @@
   <a href="https://api.whatsapp.com/send/?phone=5561999291416&text=Olá%2C+gostaria+de+saber+mais+sobre+os+seus+serviços.&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/cristinanevesb" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:anacristinabezerra.neves@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
