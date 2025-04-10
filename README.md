@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hey+i'm+Pedro+Luiz!+😁👋;Welcome+to+my+GitHub!+😎👌+)](https://git.io/typing-svg)
 <img src="https://media1.tenor.com/m/KHpTWofLUaIAAAAd/re-zero-natsuki-subaru.gif" alt="Subaru Pixel" align="right" width="210">
 
-### Technologies and tools 😱:
+### Full-Stack Developer:
 
 ---
 
+### Technologies and tools 😱:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
