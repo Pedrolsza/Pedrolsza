@@ -14,5 +14,5 @@
   <img align="center" alt = "css" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt = "python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt = "vue.js" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img align="center" alt = "GoLang" src= "https://img.shields.io/badge/Code-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img align="center" alt = "GoLang" src= "https://img.shields.io/badge/-Go-000?logo=go&logoColor=white&style=flat-square"/>
 </div>
