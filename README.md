@@ -21,7 +21,7 @@
   <p>
   <img src="https://media1.tenor.com/m/KHpTWofLUaIAAAAd/re-zero-natsuki-subaru.gif" 
        width="250" 
-       align="left" 
+       align="right" 
        style="margin-right: 20px; margin-top: 10px; border-radius: 12px;" />
   </p>
 
