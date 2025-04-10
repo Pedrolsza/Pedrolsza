@@ -1,3 +1,3 @@
 ### Olá eu sou o Pedro Luiz
 
-![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
