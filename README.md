@@ -20,7 +20,7 @@
   <p align="right">
   <img src="https://media1.tenor.com/m/KHpTWofLUaIAAAAd/re-zero-natsuki-subaru.gif"
        width="250"
-       style="border-radius: 12px; margin-top: 0px;" />
+       style="border-radius: -500px; margin-top: 500px;" />
   </p>
 
 </div>
