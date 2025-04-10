@@ -6,3 +6,10 @@
 [![Instagram](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5561999291416&text=Olá%2C+gostaria+de+saber+mais+sobre+os+seus+serviços.&type=phone_number&app_absent=0)
 
 ![Pedrolsza GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrolsza&show_icons=true&theme=tokyonight)
+
+### Técnologias: 
+
+<div style= "display_block"><br/>
+  <img align="center" alt = "html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit"/>
+  
+</div>
