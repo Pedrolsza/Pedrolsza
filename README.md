@@ -1,4 +1,4 @@
-### Olá eu sou o Pedro Luiz 😁👌!
+### 😁 Olá eu sou o Pedro Luiz 👌!
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pedroluiz5645)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrolsz_/)
@@ -7,7 +7,7 @@
 
 ![Pedrolsza GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrolsza&show_icons=true&theme=tokyonight)
 
-### Técnologias: 
+### 🤙 Técnologias 😎: 
 
 <div style= "display_block"><br/>
   <img align="center" alt = "html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
