@@ -19,8 +19,7 @@
   <img align="center" alt = "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <p align="right">
   <img src="https://media1.tenor.com/m/KHpTWofLUaIAAAAd/re-zero-natsuki-subaru.gif"
-       width="250"
-       style="border-radius: 100px; margin-top: 100px;" />
+       width="400"/>
   </p>
 
 </div>
