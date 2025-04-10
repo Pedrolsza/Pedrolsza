@@ -20,10 +20,11 @@
   <img align="center" alt = "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <p>
   <img src="https://media1.tenor.com/m/KHpTWofLUaIAAAAd/re-zero-natsuki-subaru.gif" 
-       width="200" 
-       align="right" 
-       style="margin-left: 20px; border-radius: 10px;" />
-</p>
+       width="250" 
+       align="left" 
+       style="margin-right: 20px; margin-top: 10px; border-radius: 12px;" />
+  </p>
+
 </div>
 
 Apaixonado por resolver problemas com código. Em constante evolução. 
