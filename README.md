@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hey+i'm+Pedro+Luiz!+😁👋;Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hey+i'm+Pedro+Luiz!+😁👋;Welcome+to+my+GitHub!+😎👌+)](https://git.io/typing-svg)
 <img src="https://media1.tenor.com/m/KHpTWofLUaIAAAAd/re-zero-natsuki-subaru.gif" alt="Subaru Pixel" align="right" width="210">
 
 ### 😁 Hey, i'm Pedro Luiz! 👋
