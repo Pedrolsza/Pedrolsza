@@ -4,4 +4,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrolsz_/)
 [![Instagram](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/pedrinlsz_)
 
-![Pedrolsza GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrolsza&show_icons=true&theme=dark)
+![Pedrolsza GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrolsza&show_icons=true&theme=merko)
